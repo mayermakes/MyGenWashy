@@ -10,3 +10,7 @@ On day three the learnings and circuits were converted into a kicad design for f
 
 the board is intended to be locally produceable, by hand soldering and easy to repair. We avoided as many "special" components for easy component substitution.
 
+![Mygenwashi](https://github.com/user-attachments/assets/98f4647c-c7b2-4dc2-a569-ab9e8c35af28)
+
+![MyGenwashy_back](https://github.com/user-attachments/assets/3e3909d3-b3e5-4697-a01c-27ed32cb2201)
+

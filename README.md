@@ -8,7 +8,7 @@ the team tested their theories on how safety mechanisms and machine parts worked
 At the end of day two the machine was running a cold wash programm from a dev kit and some homemade electronics controlled via ESP-home.
 On day three the learnings and circuits were converted into a kicad design for further testing and software development.
 
-the board is intended to be locally produceable, by hand soldering and easy to repair. We avoided as many "special" components for easy component substitution.
+the board is intended to be locally produceable, by hand soldering and easy to repair. We avoided  "special" components for easy component substitution.
 
 ![Mygenwashi](https://github.com/user-attachments/assets/98f4647c-c7b2-4dc2-a569-ab9e8c35af28)
 

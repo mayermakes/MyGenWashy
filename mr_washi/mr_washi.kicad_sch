@@ -1,0 +1,668 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "04df3700-2336-4968-94a0-f94cdd5fda6b")
+	(paper "A4")
+	(title_block
+		(title "Mr. washi")
+		(date "2025-06-13")
+		(rev "0.1")
+		(company "Tttle Buttle Hackathon")
+		(comment 1 "Author: mayermakes")
+	)
+	(lib_symbols)
+	(wire
+		(pts
+			(xy 57.15 50.8) (xy 71.12 50.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "00f400ab-3212-4a0d-b59f-319b0a309a7f")
+	)
+	(wire
+		(pts
+			(xy 107.95 33.02) (xy 130.81 33.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "088dd965-a878-487f-bd95-b29fa911e236")
+	)
+	(wire
+		(pts
+			(xy 107.95 66.04) (xy 194.31 66.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0bb8a069-507d-4854-9429-51bd30327f91")
+	)
+	(wire
+		(pts
+			(xy 39.37 77.47) (xy 71.12 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2bad3c06-4dbd-4563-9507-17f08998c434")
+	)
+	(wire
+		(pts
+			(xy 158.75 59.69) (xy 194.31 59.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3f215ccc-6d92-4e67-b2d2-93c886c29188")
+	)
+	(wire
+		(pts
+			(xy 57.15 53.34) (xy 71.12 53.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4217bb5a-03fe-4f84-b44a-a557775e43b5")
+	)
+	(wire
+		(pts
+			(xy 107.95 36.83) (xy 130.81 36.83)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4a4323e5-ae39-484b-b827-034f92ea55fc")
+	)
+	(wire
+		(pts
+			(xy 158.75 62.23) (xy 194.31 62.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "554c538f-0a3b-4fa4-84fe-1afef8df0309")
+	)
+	(wire
+		(pts
+			(xy 107.95 71.12) (xy 194.31 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7b3d379a-7134-4411-ad8d-0487c85e2ee1")
+	)
+	(wire
+		(pts
+			(xy 107.95 39.37) (xy 130.81 39.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7de6a5c3-904d-440e-b452-d4f2fb18a9a6")
+	)
+	(wire
+		(pts
+			(xy 107.95 52.07) (xy 130.81 52.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a3154655-dbec-4d2f-9098-42f085ca9f92")
+	)
+	(wire
+		(pts
+			(xy 107.95 41.91) (xy 130.81 41.91)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a92d1cf6-3d5f-4bab-8fb6-a8e2782fb489")
+	)
+	(wire
+		(pts
+			(xy 107.95 55.88) (xy 130.81 55.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "df2b3087-1162-4759-986b-ed168f20b701")
+	)
+	(wire
+		(pts
+			(xy 107.95 45.72) (xy 130.81 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e449d002-a204-4d89-bab3-0c061f39b1b3")
+	)
+	(sheet
+		(at 19.05 72.39)
+		(size 20.32 17.78)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "1452fc66-60ca-4b26-b520-6fef7c1b0bad")
+		(property "Sheetname" "Sensors"
+			(at 19.05 71.6784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "sensors.kicad_sch"
+			(at 19.05 90.7546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "NTC" input
+			(at 39.37 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "45617e99-171c-4ebb-90a0-7dc935cd9deb")
+		)
+		(instances
+			(project "mr_washi"
+				(path "/04df3700-2336-4968-94a0-f94cdd5fda6b"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 19.05 27.94)
+		(size 38.1 36.83)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "1fb76f44-1196-40ba-80cd-c6e356accb88")
+		(property "Sheetname" "User interface"
+			(at 19.05 27.2284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "ui.kicad_sch"
+			(at 19.05 65.3546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "SDA" input
+			(at 57.15 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "2c6ba989-9f7d-4103-9574-8b685563cbb6")
+		)
+		(pin "SCL" input
+			(at 57.15 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "da3d1787-57f9-43d5-a88f-ed1b96ff945f")
+		)
+		(instances
+			(project "mr_washi"
+				(path "/04df3700-2336-4968-94a0-f94cdd5fda6b"
+					(page "8")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 21.59 146.05)
+		(size 54.61 38.1)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "461458ab-98ab-4976-862d-bdea04b4580e")
+		(property "Sheetname" "power conversion"
+			(at 21.59 145.3384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "power.kicad_sch"
+			(at 21.59 184.7346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "mr_washi"
+				(path "/04df3700-2336-4968-94a0-f94cdd5fda6b"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 194.31 27.94)
+		(size 49.53 50.8)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "750826ae-cf51-43a7-ba39-41313e9c7cf8")
+		(property "Sheetname" "Motor control"
+			(at 194.31 27.2284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "motor_CTRL.kicad_sch"
+			(at 194.31 79.3246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "MOTOR_PWM" input
+			(at 194.31 59.69 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "f658227b-b8bb-47a5-bbdf-c633351a0b48")
+		)
+		(pin "MOTOR_230V_LIVE" input
+			(at 194.31 62.23 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "b141168e-07c1-4251-818a-eb34249bf746")
+		)
+		(pin "TACHO_SIGNAL" input
+			(at 194.31 71.12 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "8d76c75d-6761-413a-a2a1-e584de54cdcd")
+		)
+		(pin "ZERO_POINT_SIGNAL" input
+			(at 194.31 66.04 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "98360e42-5d47-4cb6-982a-5c578a9a8ff6")
+		)
+		(instances
+			(project "mr_washi"
+				(path "/04df3700-2336-4968-94a0-f94cdd5fda6b"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 130.81 27.94)
+		(size 27.94 92.71)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "81836c32-4245-43d8-902c-7d51baca126a")
+		(property "Sheetname" "intermediary"
+			(at 130.81 27.2284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "intermediary.kicad_sch"
+			(at 130.81 121.2346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "MCU_LOCK" input
+			(at 130.81 33.02 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "15338e5c-1c16-40b8-b879-b3a6935ccb18")
+		)
+		(pin "MCU_DRAIN_PUMP" input
+			(at 130.81 36.83 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "c9230ea3-e235-419a-b6c5-da7291a3e308")
+		)
+		(pin "MCU_WATER_INLET_2" input
+			(at 130.81 39.37 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "3ba2d27c-9a0e-4522-b3ba-2bc25eff95ea")
+		)
+		(pin "MCU_WATER_INLET_1" input
+			(at 130.81 41.91 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "f310ed8c-e090-4600-aaaa-df14b6fda9ee")
+		)
+		(pin "MCU_HEATER" input
+			(at 130.81 45.72 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "87daea84-68bf-4df5-a50c-b791817d4016")
+		)
+		(pin "MOTOR_ENABLE" input
+			(at 130.81 52.07 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "4be58fed-649b-426f-a1b3-ecaa99ea0365")
+		)
+		(pin "MOTOR_PWM" input
+			(at 130.81 55.88 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "71194faf-93d5-4057-81a3-dc7e44a50303")
+		)
+		(pin "MOTOR_PWM_BUFFERED" input
+			(at 158.75 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "17f8bdf3-bec5-4a49-90df-a4efc0c95cc7")
+		)
+		(pin "MOTOR_230V_LIVE" input
+			(at 158.75 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "04417579-b9c6-4895-a41b-284c79ef2acf")
+		)
+		(instances
+			(project "mr_washi"
+				(path "/04df3700-2336-4968-94a0-f94cdd5fda6b"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 71.12 27.94)
+		(size 36.83 71.12)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "fabb565c-983f-4f0d-964b-8f3a80bb93e0")
+		(property "Sheetname" "MCU"
+			(at 71.12 27.2284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "mcu.kicad_sch"
+			(at 71.12 99.6446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "LOCK" input
+			(at 107.95 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "d3722cca-fe09-46a4-8c2c-a30da306b5c7")
+		)
+		(pin "DRAIN" input
+			(at 107.95 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "30fb4b94-4870-47b8-81db-5d18947a715c")
+		)
+		(pin "WATER_INLET_1" input
+			(at 107.95 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "054508df-b7d7-4fd1-9845-90df30a88a86")
+		)
+		(pin "WATER_INLET_2" input
+			(at 107.95 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "bd48f034-22ba-4d31-bc4b-f0bc22965954")
+		)
+		(pin "HEATER" input
+			(at 107.95 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "d72a1ab4-5c87-4f48-91da-ee090d2d6194")
+		)
+		(pin "SCL" input
+			(at 71.12 50.8 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "9947b245-0a70-4474-9329-c381d6a21dd6")
+		)
+		(pin "SDA" input
+			(at 71.12 53.34 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "db514d10-8060-4243-8962-c9bf4e660c18")
+		)
+		(pin "MOTOR_PWM" input
+			(at 107.95 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "3b622f43-95ab-4725-9273-f5410ebbefb6")
+		)
+		(pin "MOTOR_ENABLE" input
+			(at 107.95 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "8728f8ec-4e5c-4922-b45f-839e132348bf")
+		)
+		(pin "NTC" input
+			(at 71.12 77.47 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "961ccc71-39c9-4a20-8306-cba8e6058761")
+		)
+		(pin "MOTOR_TACHO_PULSE" input
+			(at 107.95 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "f0006408-d30c-4b38-8b00-4296dde18b7d")
+		)
+		(pin "ZERO_POINT" input
+			(at 107.95 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "f523f8b2-3164-4f30-a86a-77ec463a031f")
+		)
+		(instances
+			(project "mr_washi"
+				(path "/04df3700-2336-4968-94a0-f94cdd5fda6b"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)

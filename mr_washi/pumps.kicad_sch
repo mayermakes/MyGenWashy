@@ -1,0 +1,18 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "2c88bde3-b0da-4390-969a-d4dc6d69fe4f")
+	(paper "A4")
+	(lib_symbols)
+	(text "pumpen 230V ?"
+		(exclude_from_sim no)
+		(at 147.32 86.614 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "6396c680-bd0b-47bb-a664-37ba062b8926")
+	)
+)

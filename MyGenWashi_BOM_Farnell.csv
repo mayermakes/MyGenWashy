@@ -1,0 +1,36 @@
+Nr.,Best.-Nr.   ,RoHS-konform?,Ihre Bestellnummer,Hinweise,Menge,Hersteller-Teilenr.,Herstellername,Hersteller / Beschreibung,Verfügbarkeit,Stückpreis (&euro;),Positionspreis (&euro;),Rabattpreis (&euro;)
+1,3765485,RoHS: YES / PHTHALATE: YES,,,6.0,"PS2562L1-1-A",RENESAS,"RENESAS  Optokoppler, 1 Kanal, DIP, Oberflächenmontage, 4 Pin(s), 80 mA, 5 kV, 200 %",671,0.9710,5.83,,
+2,8767068,RoHS: YES / PHTHALATE: YES,,,5.0,"ECA1AAM331X",PANASONIC,"PANASONIC  Elektrolytkondensator, 330 µF, 10 V, ± 20%, Radial bedrahtet, 2000 Stunden bei 85°C, Polarisiert",1905,0.1130,0.57,,
+3,1459143,RoHS: Y-EX / PHTHALATE: YES,,,5.0,"MUR2100EG",ONSEMI,"ONSEMI  Diode mit kurzer/ultrakurzer Erholzeit, 1 kV, 2 A, Einfach, 2.2 V, 75 ns, 35 A",6522,0.4570,2.29,,
+4,3406865,RoHS: YES / PHTHALATE: YES,,,10.0,"RTD14730",SCHRACK - TE CONNECTIVITY,"SCHRACK - TE CONNECTIVITY  Leistungsrelais, SPDT, 230 VAC, 16 A, RT1, Durchsteckmontage, Monostabil",532,6.5700,65.70,,
+5,3705262,RoHS: YES / PHTHALATE: YES,,,40.0,"1755736",PHOENIX CONTACT,"PHOENIX CONTACT  STIFTLEISTE, VERT 5.08MM 2POL.",3030,0.9610,38.44,,
+6,3705389,RoHS: Y-EX / PHTHALATE: YES,,,2.0,"1757048",PHOENIX CONTACT,"PHOENIX CONTACT  Steckbare Reihenklemme, 5.08 mm, 5 -polig, 24 AWG, 12 AWG, 2.5 mm², Schraubanschluss",1234,5.7600,11.52,,
+7,3705201,RoHS: YES / PHTHALATE: YES,,,2.0,"1757271",PHOENIX CONTACT,"PHOENIX CONTACT  Reihenklemme, abgewinkelt, Stiftleiste, 5.08 mm, 5 -polig, 12 A, 250 V",1065,1.8900,3.78,,
+8,1581137,RoHS: YES / PHTHALATE: YES,,,5.0,"MCL053MD",MULTICOMP PRO,"MULTICOMP PRO  LED, Rot, Durchsteckmontage, T-1 3/4 (5mm), 20 mA, 2 V, 625 nm",34709,0.1260,0.63,,
+9,3772379,RoHS: YES / PHTHALATE: YES,,,10.0,"FG18X5R1E106MRT00",TDK,"TDK  Keramikvielschichtkondensator, 10 µF, 25 V, ± 20%, PC-Pin, X5R, 2.5 mm",489,0.2650,2.65,,
+10,3289391,RoHS: YES / PHTHALATE: YES,,,10.0,"K104Z15Y5VE5TH5",VISHAY,"VISHAY  Keramikvielschichtkondensator, 0.1 µF, 25 V, -20%, +80%, Radial bedrahtet, Y5V, 5 mm",294 Verfügbar, bis der Lagerbestand erschöpft ist.,0.1060,1.06,,
+11,4143903,RoHS: YES / PHTHALATE: YES,,,5.0,"FG23C0G2W104JNT00",TDK,"TDK  Keramikvielschichtkondensator, 0.1 µF, 450 V, ± 5%, PC-Pin, C0G / NP0, 5 mm",386,3.0000,15.00,,
+12,2534925,RoHS: YES / PHTHALATE: YES,,,10.0,"C981U103MYVDAAWL45",KEMET,"KEMET  Funkentstörkondensator (Keramik), Scheibenkondensator, 0.01 µF, ± 20%, X1 / Y2, 400 V, 250 V",5900 Verfügbar, bis der Lagerbestand erschöpft ist.,0.3340,3.34,,
+13,1471017,RoHS: YES / PHTHALATE: YES,,,3.0,"MOC3020-M",ONSEMI,"ONSEMI  Optokoppler, Triac-Ausgang, DIP, 6 Pin(s), 5.3 kV, Momentwert, 400 V, MOC301XM & MOC302XM",4446,0.7160,2.15,,
+14,1578404,RoHS: YES / PHTHALATE: YES,,,5.0,"MCP1825S-3302E/DB",MICROCHIP,"MICROCHIP  LDO-Festspannungsregler, 2.1V bis 6V, 210mV Dropout, 3.3Vout, 500mAout, SOT-223-3",50652,0.6290,3.15,,
+15,1653491,RoHS: YES / PHTHALATE: YES,,,4.0,"BTB16-600BWRG",STMICROELECTRONICS,"STMICROELECTRONICS  Triac, 600 V, 16 A, TO-220AB, 1.3 V, 160 A, 50 mA",1236,1.2800,5.12,,
+16,3619410,RoHS: YES / PHTHALATE: YES,,,5.0,"MP006456",MULTICOMP PRO,"MULTICOMP PRO  Widerstand für Durchsteckmontage, 47 kohm, 1 W, ± 2%, Axial bedrahtet, 500 V",1545,0.2590,1.30,,
+17,2815498,RoHS: YES / PHTHALATE: YES,,,2.0,"IRM-10-5",MEAN WELL,"MEAN WELL  AC/DC-Netzteil für Leiterplattenmontage, ITE, 1 Ausgang, 10 W, 5 VDC, 2 A",64,10.7400,21.48,,
+18,2325629,RoHS: YES / PHTHALATE: YES,,,20.0,"1-1415899-9",SCHRACK - TE CONNECTIVITY,"SCHRACK - TE CONNECTIVITY  Universelles Leistungsrelais, Baureihe RZ, monostabil, SPDT, 5V DC, 16A",3485,1.8600,37.20,,
+19,1217315,RoHS: YES / PHTHALATE: YES,,,40.0,"MC 100-50802",LUMBERG,"LUMBERG  Steckbare Reihenklemme, 5.08 mm, 2 -polig, 24 AWG, 14 AWG, Schraubanschluss",1780 Verfügbar, bis der Lagerbestand erschöpft ist.,0.9440,37.76,,
+20,9452192,RoHS: YES / PHTHALATE: YES,,,5.0,"MCUMR16V106M4X5",MULTICOMP PRO,"MULTICOMP PRO  Elektrolytkondensator, 10 µF, 16 V, ± 20%, Radial bedrahtet, 1000 Stunden bei 85°C, Polarisiert",68408,0.1040,0.52,,
+21,1902919,RoHS: YES / PHTHALATE: YES,,,5.0,"MCRH50V104M5X11",MULTICOMP PRO,"MULTICOMP PRO  Elektrolytkondensator, 0.1 µF, 50 V, ± 20%, Radial bedrahtet, 2000 Stunden bei 105°C, Polarisiert",302,0.0788,0.39,,
+22,9338055,RoHS: YES / PHTHALATE: YES,,,5.0,"MCF 2W 1K",MULTICOMP PRO,"MULTICOMP PRO  KOHLESCHICHTWIDERSTAND 1K 5% 2W AXIAL",95811,0.1540,0.77,,
+23,9338705,RoHS: YES / PHTHALATE: YES,,,5.0,"MCF 0.5W 330R",MULTICOMP PRO,"MULTICOMP PRO  Widerstand für Durchsteckmontage, 330 ohm, MCF Series, 500 mW, ± 5%, Axial bedrahtet, 350 V",10903,0.0727,0.36,,
+24,4227313,RoHS: YES / PHTHALATE: YES,,,5.0,"MCPKNPA1WJ0101A10",MULTICOMP PRO,"MULTICOMP PRO  Widerstand für Durchsteckmontage, 100 ohm, MCPKNPA Series, 1 W, ± 5%, Axial bedrahtet, 500 V",1888,0.2540,1.27,,
+25,1357917,RoHS: YES / PHTHALATE: YES,,,5.0,"MOR03SJ0103A19",MULTICOMP PRO,"MULTICOMP PRO  METALLOXIDWIDERSTAND, 10K, 5%, 3W, AXIAL",3295,0.2780,1.39,,
+26,9343318,RoHS: YES / PHTHALATE: YES,,,5.0,"MF12 5K1",MULTICOMP PRO,"MULTICOMP PRO  Widerstand für Durchsteckmontage, 5.1 kohm, MF12 Series, 125 mW, ± 1%, Axial bedrahtet, 200 V",4729,0.0614,0.31,,
+27,3872794,RoHS: YES / PHTHALATE: YES,,,5.0,"ATTINY3226-SU",MICROCHIP,"MICROCHIP  8-Bit-MCU, tinyAVR 2 Family ATtiny3226 Series Microcontrollers, AVR, 20 MHz, 32 KB, 20 Pin(s)",423,1.2500,6.25,,
+28,2628016,RoHS: YES / PHTHALATE: YES,,,5.0,"ULN2003ADR2G",ONSEMI,"ONSEMI  DARLINGTON-TRANSISTOR-ARRAY, SOIC-16",5532,1.0300,5.15,,
+29,2677537,RoHS: YES / PHTHALATE: YES,,,5.0,"1.5KE400CA",TAIWAN SEMICONDUCTOR,"TAIWAN SEMICONDUCTOR  TVS-Diode, 1.5KE, Bidirektional, 342 V, 548 V, DO-201AE, 2 Pin(s)",187,0.7920,3.96,,
+
+,,,,,,,Zwischensumme,&euro;279.32
+,,,,,,,Warengesamtsumme,&euro;279.32
+,,,,,,,Lieferung,&euro;0.00
+,,,,,,,USt.,&euro;55.86
+,,,,,,,Gesamt,&euro;335.18

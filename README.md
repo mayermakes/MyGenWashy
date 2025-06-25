@@ -9,6 +9,7 @@ At the end of day two the machine was running a cold wash programm from a dev ki
 On day three the learnings and circuits were converted into a kicad design for further testing and software development.
 
 the board is intended to be locally produceable, by hand soldering and easy to repair. We avoided  "special" components for easy component substitution.
+Unit cost is not a concerning factor, this is about the availability of a workable design that can be fitted with whatever components are available.
 
 ![mr_washi_angled](https://github.com/user-attachments/assets/1646637f-5b61-4bc1-bef8-ef897bd06827)
 

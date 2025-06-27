@@ -11,6 +11,8 @@ On day three the learnings and circuits were converted into a kicad design for f
 the board is intended to be locally produceable, by hand soldering and easy to repair. We avoided  "special" components for easy component substitution.
 Unit cost is not a concerning factor, this is about the availability of a workable design that can be fitted with whatever components are available.
 
+Thanks to Aisler for the Protoype PCBs and Farnell for supporting us with parts!
+
 ![mr_washi_angled](https://github.com/user-attachments/assets/1646637f-5b61-4bc1-bef8-ef897bd06827)
 
 ![mr_washi_back_angled](https://github.com/user-attachments/assets/607a8444-5803-4847-ab29-120f63d233b3)

@@ -14,3 +14,5 @@ Unit cost is not a concerning factor, this is about the availability of a workab
 ![mr_washi_angled](https://github.com/user-attachments/assets/1646637f-5b61-4bc1-bef8-ef897bd06827)
 
 ![mr_washi_back_angled](https://github.com/user-attachments/assets/607a8444-5803-4847-ab29-120f63d233b3)
+
+[Hackathon EN-finial3.pdf](https://github.com/user-attachments/files/20941595/Hackathon.EN-finial3.pdf)
